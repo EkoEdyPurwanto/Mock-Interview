@@ -6,4 +6,6 @@
 6. Pertanyaan: Buatlah sebuah program yang mencari nilai maksimum dan minimum dalam sebuah array bilangan bulat (misalnya: array: [3, 9, 2, 7, 1] jawaban: Nilai maksimum: 9, Nilai minimum: 1).
 7. Pertanyaan: Buatlah fungsi untuk menentukan apakah suatu string merupakan palindrom (string yang sama jika dibaca dari depan maupun belakang). (misalnya: "radar" adalah palindrom).
 8. Pertanyaan: Buatlah fungsi Golang yang menerima sebuah string dan mengembalikan string tersebut dalam keadaan terbalik. Contoh: Jika diberikan input "Golang", fungsi akan mengembalikan "gnaloG".
+9. pertanyaan: Buatlah sebuah fungsi untuk menukar value dari sebuah variable (misalnya var x = "motor", var y = "sepeda" -> var x = "sepeda", var y = "motor")
+10. Pertanyaan: Buatlah sebuah program atau fungsi yang dapat menghitung jumlah kemunculan kata-kata unik dalam sebuah teks atau kalimat. (Misalnya, jika diberikan teks "Ini adalah contoh kalimat, contoh yang bagus.", program harus menghitung kata unik seperti "Ini", "adalah", "contoh", "kalimat", "yang", "bagus" dengan hasil akhirnya adalah 6).
   
