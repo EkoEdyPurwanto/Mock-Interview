@@ -8,4 +8,5 @@
 8. Pertanyaan: Buatlah fungsi Golang yang menerima sebuah string dan mengembalikan string tersebut dalam keadaan terbalik. Contoh: Jika diberikan input "Golang", fungsi akan mengembalikan "gnaloG".
 9. pertanyaan: Buatlah sebuah fungsi untuk menukar value dari sebuah variable (misalnya var x = "motor", var y = "sepeda" -> var x = "sepeda", var y = "motor")
 10. Pertanyaan: Buatlah sebuah program atau fungsi yang dapat menghitung jumlah kemunculan kata-kata unik dalam sebuah teks atau kalimat. (Misalnya, jika diberikan teks "Ini adalah contoh kalimat, contoh yang bagus.", program harus menghitung kata unik seperti "Ini", "adalah", "contoh", "kalimat", "yang", "bagus" dengan hasil akhirnya adalah 6).
+11. Pertanyaan: Buatlah sebuah fungsi untuk memeriksa apakah sebuah bilangan bulat positif merupakan bilangan Armstrong atau bukan. (Bilangan Armstrong adalah bilangan yang jumlah dari pangkat n dari setiap digitnya pada basis n, sama dengan bilangan itu sendiri. Misalnya, 153 adalah bilangan Armstrong karena 1^3 + 5^3 + 3^3 = 153).
   
