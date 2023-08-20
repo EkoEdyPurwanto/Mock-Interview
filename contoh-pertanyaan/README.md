@@ -11,3 +11,4 @@
 11. Pertanyaan: Buatlah sebuah fungsi untuk memeriksa apakah sebuah bilangan bulat positif merupakan bilangan Armstrong atau bukan. (Bilangan Armstrong adalah bilangan yang jumlah dari pangkat n dari setiap digitnya pada basis n, sama dengan bilangan itu sendiri. Misalnya, 153 adalah bilangan Armstrong karena 1^3 + 5^3 + 3^3 = 153).
 12.   
 13.
+14.
